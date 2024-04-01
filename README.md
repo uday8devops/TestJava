@@ -2,4 +2,4 @@
 Java (Maven) application for tracking time on the job
 
 Test-java
-This is to test poll scm in jenkins
+
